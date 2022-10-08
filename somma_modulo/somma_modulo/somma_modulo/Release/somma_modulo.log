@@ -1,0 +1,4 @@
+﻿  Assembling somma_modulo.asm...
+  main.c
+  LINK : è stata specificata l'opzione /LTCG ma non è richiesta la generazione del codice; rimuovere /LTCG dalla riga di comando del collegamento per migliorare le prestazioni del linker
+  somma_modulo.vcxproj -> C:\Users\fedem\OneDrive\Desktop\uni\anno 2\calcolatori elettronici\lab\esercizi\somma_modulo\somma_modulo\Release\somma_modulo.exe

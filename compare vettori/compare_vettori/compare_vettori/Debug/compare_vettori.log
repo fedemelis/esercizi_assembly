@@ -1,0 +1,5 @@
+﻿  Assembling compare.asm...
+  main.c
+C:\Users\fede\Desktop\uni\calcolatori elettrnoici lab\compare vettori\compare_vettori\compare_vettori\main.c(10,26): warning C4047: 'funzione': 'int' differisce da 'int [5]' nei livelli di riferimento indiretto
+C:\Users\fede\Desktop\uni\calcolatori elettrnoici lab\compare vettori\compare_vettori\compare_vettori\main.c(10,22): warning C4024: 'compare_vec': tipi diversi tra il parametro 3 formale e quello effettivo
+  compare_vettori.vcxproj -> C:\Users\fede\Desktop\uni\calcolatori elettrnoici lab\compare vettori\compare_vettori\Debug\compare_vettori.exe

@@ -1,0 +1,3 @@
+﻿  Assembling divisione_array.asm...
+divisione_array.asm(18): error A2070: invalid instruction operands
+C:\visualStudio\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: uscita dal comando "ml.exe /c /nologo /Zi /Fo"Release\divisione_array.obj" /W3 /errorReport:prompt  /Tadivisione_array.asm" con codice 1.

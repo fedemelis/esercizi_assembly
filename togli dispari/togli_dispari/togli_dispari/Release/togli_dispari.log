@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\fedem\OneDrive\Desktop\uni\anno 2\calcolatori elettronici\lab\esercizi\togli dispari\togli_dispari\togli_dispari\main.c(1,1): warning C4335: Rilevato formato di file Mac: convertire il file di origine in formato DOS o UNIX
+C:\Users\fedem\OneDrive\Desktop\uni\anno 2\calcolatori elettronici\lab\esercizi\togli dispari\togli_dispari\togli_dispari\main.c(1,10): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\fedem\OneDrive\Desktop\uni\anno 2\calcolatori elettronici\lab\esercizi\togli dispari\togli_dispari\togli_dispari\main.c(2,2): error C2449: trovato '{' in ambito file. Si è omesso di specificare un'intestazione di funzione?
+C:\Users\fedem\OneDrive\Desktop\uni\anno 2\calcolatori elettronici\lab\esercizi\togli dispari\togli_dispari\togli_dispari\main.c(4,2): error C2059: errore di sintassi: '}'
+C:\Users\fedem\OneDrive\Desktop\uni\anno 2\calcolatori elettronici\lab\esercizi\togli dispari\togli_dispari\togli_dispari\main.c(4,16): error C2059: errore di sintassi: '}'

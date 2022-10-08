@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\fede\Desktop\uni\calcolatori\calcolatori elettrnoici lab\esercizi\potenza\sommaModulo\sommaModulo\main.c(10,34): warning C4047: 'funzione': 'int' differisce da 'int [10]' nei livelli di riferimento indiretto
+C:\Users\fede\Desktop\uni\calcolatori\calcolatori elettrnoici lab\esercizi\potenza\sommaModulo\sommaModulo\main.c(10,30): warning C4024: 'somma_modulo': tipi diversi tra il parametro 3 formale e quello effettivo
+  LINK : è stata specificata l'opzione /LTCG ma non è richiesta la generazione del codice; rimuovere /LTCG dalla riga di comando del collegamento per migliorare le prestazioni del linker
+  sommaModulo.vcxproj -> C:\Users\fede\Desktop\uni\calcolatori\calcolatori elettrnoici lab\esercizi\potenza\sommaModulo\Release\sommaModulo.exe

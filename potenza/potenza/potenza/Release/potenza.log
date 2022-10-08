@@ -1,0 +1,4 @@
+﻿  Assembling potenza.asm...
+  main.c
+  LINK : è stata specificata l'opzione /LTCG ma non è richiesta la generazione del codice; rimuovere /LTCG dalla riga di comando del collegamento per migliorare le prestazioni del linker
+  potenza.vcxproj -> C:\Users\fede\Desktop\uni\calcolatori\calcolatori elettrnoici lab\esercizi\potenza\potenza\Release\potenza.exe
